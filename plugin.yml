@@ -8,7 +8,7 @@ categories:
   - Featured
 sources:
   - https://github.com/codefresh-contrib/plugin-gke
-icon: 'https://raw.githubusercontent.com/codefresh-io/plugins/new-pipeline/plugins/vault/logo.jpg'
+icon: https://github.com/codefresh-plugins/plugin-gke/blob/master/icon.jpg
 maintainers:
   - name: Kosta Klevensky
 envs:
