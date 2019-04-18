@@ -5,7 +5,7 @@ keywords:
   - kubernetes
   - cluster
 categories:
-  - Featured
+  - featured
 sources:
   - https://github.com/codefresh-contrib/plugin-gke
 icon: https://raw.githubusercontent.com/codefresh-plugins/plugin-gke/master/icon.jpg
