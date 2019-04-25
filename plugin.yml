@@ -1,4 +1,4 @@
-image: codefresh/plugin-gke:latest
+image: codefreshplugins/plugin-gke:latest
 version: 0.1.0
 description: Codefresh gke plugin
 keywords:
